@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+body {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card {
+  height: 5.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: 1px solid #eee;
+  page-break-after: auto;
+}

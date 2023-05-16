@@ -1,8 +1,8 @@
-Gepard		Leopard
-Spanien		Italien
-Gäspa		Sucka
-Kontor		Fabrik
-Video		Foto
-Duggregn	Regn
-Radar		Ekolod
-Lillebror	Storebror
+Gepard,Leopard
+Spanien,Italien
+Gäspa,Sucka
+Kontor,Fabrik
+Video,Foto
+Duggregn,Regn
+Radar,Ekolod
+Lillebror,Storebror
